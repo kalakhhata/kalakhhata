@@ -1,6 +1,6 @@
 # Hi, I'm Omkumar Patel 👋
 
-**Backend & GenAI Engineer** | Python · Java · FastAPI · Distributed Systems | F-1 OPT — Available Now
+**Backend & GenAI Engineer** | Python · Java · FastAPI · Distributed Systems 
 
 ---
 
